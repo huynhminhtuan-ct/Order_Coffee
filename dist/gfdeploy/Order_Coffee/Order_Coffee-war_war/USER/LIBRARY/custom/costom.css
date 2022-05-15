@@ -1,0 +1,17 @@
+.HomeProductImg{
+    background-color: #b68834;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.HomeProductDetail{
+    padding-top: 10px;
+}
+.HomeProductImgSrc{
+    padding-top: 25px;
+    padding-left: 1px;
+    width: 77%;
+}
+.ProductImgSrc{
+     width: 99%;
+}
